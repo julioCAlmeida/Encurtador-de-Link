@@ -1,4 +1,4 @@
-# Criação de um Projeto de encurtador de Links
+# Criação de um Página que encurtador de Links
 
 Este projeto foi desenvolvido com a ajuda de um biblioteca ReactJs.
 
